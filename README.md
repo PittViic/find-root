@@ -15,13 +15,11 @@ O programa tem objetivo de, por meio de intervalos, buscar raizes dos problemas 
 
 ### Pré-requisitos
 
-- [ ] (ex: Python 3.10+)
+- [ ] Python 3.10+
 
 ### Passos
 
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-projeto.git
 
 # Acesse a pasta
 cd nome-do-projeto
