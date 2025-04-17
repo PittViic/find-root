@@ -1,24 +1,13 @@
-# 📌 Nome do Projeto
+# 📌 find-root
 
-Descrição breve e objetiva do que o projeto faz, para que serve e qual problema resolve.
-
----
-
-## 🚀 Demonstração
-
-Se aplicável, adicione aqui:
-- Um GIF mostrando o projeto em funcionamento;
-- Link para a versão online;
-- Capturas de tela.
+O programa tem objetivo de, por meio de intervalos, buscar raizes dos problemas dados.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- [ ] Linguagem: 
-- [ ] Framework/Biblioteca: 
-- [ ] Banco de Dados:
-- [ ] Outros:
+- [ ] Linguagem: Python
+- [ ] Framework/Biblioteca: Math | Sympy
 
 ---
 
@@ -26,7 +15,6 @@ Se aplicável, adicione aqui:
 
 ### Pré-requisitos
 
-- [ ] (ex: Node.js instalado)
 - [ ] (ex: Python 3.10+)
 
 ### Passos
