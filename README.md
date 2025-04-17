@@ -17,6 +17,7 @@ O programa tem objetivo de, por meio de intervalos, buscar raizes dos problemas 
 
 - [ ] Python 3.10+
 
+## ⚙️ Sobre
 
 ### 📄 Licença
 
