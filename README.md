@@ -17,15 +17,14 @@ O programa tem objetivo de, por meio de intervalos, buscar raizes dos problemas 
 
 - [ ] Python 3.10+
 
-### Passos
 
-```bash
+### 📄 Licença
 
-# Acesse a pasta
-cd nome-do-projeto
+Este projeto está sob domínio de Pedro Victor.
 
-# Instale as dependências
-comando de instalação
+### 📞 Contato
 
-# Execute o projeto
-comando de execução
+- [ ] Pedro Victor - [LinkedIn](https://www.linkedin.com/in/pedro-victor-8674b622a/)
+- [ ] Email: pvictors152004@gmail.com
+- [ ] Instagram: @pe_viic
+
